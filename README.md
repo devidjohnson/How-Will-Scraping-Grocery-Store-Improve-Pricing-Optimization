@@ -1,4 +1,4 @@
-# How-Will-Scraping-Grocery-Store-Improve-Pricing-Optimization
+# How Will Scraping Grocery Store Improve Pricing Optimization
 
 ![how-will-scraping-grocery-store-improve-pricing-optimization (1)](https://github.com/user-attachments/assets/d45f01eb-4a2d-4363-8916-cf41ac4fd38a)
 
